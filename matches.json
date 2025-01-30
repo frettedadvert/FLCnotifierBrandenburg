@@ -1,0 +1,148 @@
+{
+    "https://vergabemarktplatz.brandenburg.de/VMPCenter/common/project/search.do?method=showExtendedSearch&fromExternal=true#eyJjcHZDb2RlcyI6W10sImNvbnRyYWN0aW5nUnVsZXMiOlsiVk9MIiwiVk9CIiwiVlNWR1YiLCJTRUtUVk8iLCJPVEhFUiJdLCJwdWJsaWNhdGlvblR5cGVzIjpbIkV4QW50ZSIsIlRlbmRlciIsIkV4UG9zdCJdLCJkaXN0YW5jZSI6MCwicG9zdGFsQ29kZSI6IiIsIm9yZGVyIjoiMCIsInBhZ2UiOiIxIiwic2VhcmNoVGV4dCI6InZlcnBmbGVndW5nIiwic29ydEZpZWxkIjoicmFuayJ9": [
+        {
+            "title": "Verpflegungsleistungen in Kindertagesst\u00e4tten 2017-2020",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=6544",
+            "result": {
+                "sequence": "Verpflegungsleistungen in Kindertagesst\u00e4tten 2017-2020",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.5780293345451355,
+                    0.4219706654548645
+                ]
+            }
+        },
+        {
+            "title": "Vergabe von Verpflegungsleistungen f\u00fcr die kommunalen Kindertagesst\u00e4tten, Schulen und Horte",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=227013",
+            "result": {
+                "sequence": "Vergabe von Verpflegungsleistungen f\u00fcr die kommunalen Kindertagesst\u00e4tten, Schulen und Horte",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.5435419082641602,
+                    0.4564581513404846
+                ]
+            }
+        },
+        {
+            "title": "Essensversorgung in st\u00e4dtischen Einrichtungen",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=236366",
+            "result": {
+                "sequence": "Essensversorgung in st\u00e4dtischen Einrichtungen",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.7127357721328735,
+                    0.28726428747177124
+                ]
+            }
+        },
+        {
+            "title": "Essenversorgung",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=239395",
+            "result": {
+                "sequence": "Essenversorgung",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.7373663187026978,
+                    0.262633740901947
+                ]
+            }
+        },
+        {
+            "title": "Tr\u00e4gerschaft Kita (Neubau)",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=238422",
+            "result": {
+                "sequence": "Tr\u00e4gerschaft Kita (Neubau)",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.7038912773132324,
+                    0.29610875248908997
+                ]
+            }
+        },
+        {
+            "title": "Essenlieferung mit Serviceleistung f\u00fcr die Kita G\u00e4nsebl\u00fcmchen",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=238849",
+            "result": {
+                "sequence": "Essenlieferung mit Serviceleistung f\u00fcr die Kita G\u00e4nsebl\u00fcmchen",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.9225807189941406,
+                    0.07741932570934296
+                ]
+            }
+        },
+        {
+            "title": "Stadt Cottbus - \u00d6A 04/2025 - Konzession Mittags- Vesper- und Fr\u00fchst\u00fccksverpflegung und ggfs. Betreibung Schulkiosk im Verpflegungsbezirk S\u00fcd",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=239553",
+            "result": {
+                "sequence": "Stadt Cottbus - \u00d6A 04/2025 - Konzession Mittags- Vesper- und Fr\u00fchst\u00fccksverpflegung und ggfs. Betreibung Schulkiosk im Verpflegungsbezirk S\u00fcd",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.9828680157661438,
+                    0.01713201217353344
+                ]
+            }
+        },
+        {
+            "title": "Vergabe von Verpflegungsleistungen f\u00fcr die kommunalen Kindertageseinrichtungen",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=238848",
+            "result": {
+                "sequence": "Vergabe von Verpflegungsleistungen f\u00fcr die kommunalen Kindertageseinrichtungen",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.594792902469635,
+                    0.405207097530365
+                ]
+            }
+        },
+        {
+            "title": "Vergabe von Schulverpflegung",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=239845",
+            "result": {
+                "sequence": "Vergabe von Schulverpflegung",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.7499694228172302,
+                    0.25003060698509216
+                ]
+            }
+        }
+    ]
+}
