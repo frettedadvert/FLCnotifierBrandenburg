@@ -12,7 +12,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 # Hugging Face Inference API
 HUGGINGFACE_API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-mnli"
-HUGGINGFACE_API_TOKEN = "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"  # Replace with your Hugging Face API token
+HUGGINGFACE_API_TOKEN = os.getenv("HUGGINGFACE_API_TOKEN")  # Replace with your Hugging Face API token
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # Suppress TensorFlow logging
 
@@ -21,11 +21,11 @@ websites = [
 ]
 
 # Email configuration
-EMAIL_ADDRESS = "aaaelbedaway@gmail.com"
-EMAIL_PASSWORD = "uhpbpxywxtkmffnp"
+EMAIL_ADDRESS = os.getenv("EMAIL_ADDRESS")
+EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
 
-# File to store previously found matches
-MATCHES_FILE = "matches.json"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+MATCHES_FILE = os.path.join(SCRIPT_DIR, "matches.json")
 TEXT_PARTS_FILE = "extracted_text_parts.json"
 
 def clear_matches_file():
@@ -183,7 +183,7 @@ def send_email(new_matches):
 
     try:
         yag = yagmail.SMTP(EMAIL_ADDRESS, EMAIL_PASSWORD)
-        yag.send(EMAIL_ADDRESS, subject, body)
+        yag.send("Henrik.Hemmer@flc-group.de", subject, body)
         print("Email sent!")
     except Exception as e:
         print(f"Failed to send email: {e}")
