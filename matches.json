@@ -143,6 +143,22 @@
                     0.25003060698509216
                 ]
             }
+        },
+        {
+            "title": "Evaluation Qualit\u00e4tsportal Unser Kitaessen",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=240523",
+            "result": {
+                "sequence": "Evaluation Qualit\u00e4tsportal Unser Kitaessen",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.8297989368438721,
+                    0.17020106315612793
+                ]
+            }
         }
     ]
 }
