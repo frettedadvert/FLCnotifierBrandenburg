@@ -159,6 +159,22 @@
                     0.17020106315612793
                 ]
             }
+        },
+        {
+            "title": "Vergabe von Schul- und Kitaverpflegung",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=240792",
+            "result": {
+                "sequence": "Vergabe von Schul- und Kitaverpflegung",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.7952303886413574,
+                    0.20476959645748138
+                ]
+            }
         }
     ]
 }
