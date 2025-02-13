@@ -191,6 +191,22 @@
                     0.4089970886707306
                 ]
             }
+        },
+        {
+            "title": "Konzessionsvertrag Schulspeisung f\u00fcr Schulen in Tr\u00e4gerschaft des Landkreises Oder-Spree",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=241220",
+            "result": {
+                "sequence": "Konzessionsvertrag Schulspeisung f\u00fcr Schulen in Tr\u00e4gerschaft des Landkreises Oder-Spree",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.7889267206192017,
+                    0.21107330918312073
+                ]
+            }
         }
     ]
 }
