@@ -207,6 +207,22 @@
                     0.21107330918312073
                 ]
             }
+        },
+        {
+            "title": "Vergabe der Mittagsverpflegung f\u00fcr die Grundschule \"Geschwister Scholl\" in Tr\u00e4gerschaft der Stadt Rathenow ab dem Schuljahr 2025/2026",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=241348",
+            "result": {
+                "sequence": "Vergabe der Mittagsverpflegung f\u00fcr die Grundschule \"Geschwister Scholl\" in Tr\u00e4gerschaft der Stadt Rathenow ab dem Schuljahr 2025/2026",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.9927334189414978,
+                    0.007266525644809008
+                ]
+            }
         }
     ]
 }
