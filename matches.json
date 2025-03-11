@@ -303,6 +303,22 @@
                     0.303457111120224
                 ]
             }
+        },
+        {
+            "title": "Mittagsverpflegung Grundschule Altd\u00f6bern",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=242799",
+            "result": {
+                "sequence": "Mittagsverpflegung Grundschule Altd\u00f6bern",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.9892622232437134,
+                    0.010737787932157516
+                ]
+            }
         }
     ]
 }
