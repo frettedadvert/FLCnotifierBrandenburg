@@ -319,6 +319,22 @@
                     0.010737787932157516
                 ]
             }
+        },
+        {
+            "title": "Verpflegungsleistungen f\u00fcr Schulen und Horte - 14532 Kleinmachnow",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=243058",
+            "result": {
+                "sequence": "Verpflegungsleistungen f\u00fcr Schulen und Horte - 14532 Kleinmachnow",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.6904132962226868,
+                    0.30958670377731323
+                ]
+            }
         }
     ]
 }
