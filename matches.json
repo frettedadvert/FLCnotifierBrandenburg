@@ -335,6 +335,22 @@
                     0.30958670377731323
                 ]
             }
+        },
+        {
+            "title": "Mittagsverpflegung und Snackangebot (Cafeteria) Schulen 2025 in Panketal, OT Zepernick",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=243357",
+            "result": {
+                "sequence": "Mittagsverpflegung und Snackangebot (Cafeteria) Schulen 2025 in Panketal, OT Zepernick",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.6412078142166138,
+                    0.35879215598106384
+                ]
+            }
         }
     ]
 }
