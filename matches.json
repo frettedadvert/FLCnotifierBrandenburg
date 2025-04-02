@@ -527,6 +527,22 @@
                     0.45483046770095825
                 ]
             }
+        },
+        {
+            "title": "Mittagsverpflegung im Amtsgebiet des Amtes Odervorland",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=244392",
+            "result": {
+                "sequence": "Mittagsverpflegung im Amtsgebiet des Amtes Odervorland",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.98078453540802,
+                    0.019215410575270653
+                ]
+            }
         }
     ]
 }
