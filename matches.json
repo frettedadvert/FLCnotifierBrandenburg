@@ -543,6 +543,22 @@
                     0.019215410575270653
                 ]
             }
+        },
+        {
+            "title": "Versorgung der Michael-Ende-Grundschule (47) mit Schulessen, Fr\u00fchst\u00fcck und Vesper",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=244545",
+            "result": {
+                "sequence": "Versorgung der Michael-Ende-Grundschule (47) mit Schulessen, Fr\u00fchst\u00fcck und Vesper",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.8557286262512207,
+                    0.14427131414413452
+                ]
+            }
         }
     ]
 }
