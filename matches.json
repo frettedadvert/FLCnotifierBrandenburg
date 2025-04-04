@@ -559,6 +559,22 @@
                     0.14427131414413452
                 ]
             }
+        },
+        {
+            "title": "Ganztagsversorgung u.a. Schulen/Kitas der Stadt Vetschau/Spreewald",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=244624",
+            "result": {
+                "sequence": "Ganztagsversorgung u.a. Schulen/Kitas der Stadt Vetschau/Spreewald",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.6690142154693604,
+                    0.33098575472831726
+                ]
+            }
         }
     ]
 }
