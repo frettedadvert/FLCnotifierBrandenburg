@@ -591,6 +591,22 @@
                     0.41828978061676025
                 ]
             }
+        },
+        {
+            "title": "Essensanbieter Amtsgebiet",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=245514",
+            "result": {
+                "sequence": "Essensanbieter Amtsgebiet",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.7190340161323547,
+                    0.2809659540653229
+                ]
+            }
         }
     ]
 }
