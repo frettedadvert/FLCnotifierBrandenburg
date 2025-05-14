@@ -703,6 +703,262 @@
                     0.4222275912761688
                 ]
             }
+        },
+        {
+            "title": "Herstellung und Lieferung der Mittagsversorgung f\u00fcr die Kita \"Fl\u00e4mingstrolche\" in G\u00f6rzke nach den allgemeinen DGE-Qualit\u00e4tstandards f\u00fcr die Verpflegung in Kitas",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=247045",
+            "result": {
+                "sequence": "Herstellung und Lieferung der Mittagsversorgung f\u00fcr die Kita \"Fl\u00e4mingstrolche\" in G\u00f6rzke nach den allgemeinen DGE-Qualit\u00e4tstandards f\u00fcr die Verpflegung in Kitas",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.932324230670929,
+                    0.06767579168081284
+                ]
+            }
+        },
+        {
+            "title": "Herstellung und Lieferung der Mittagsversorgung f\u00fcr die Kita \"Spatzennest\" in Wollin nach den allgemeinen DGE-Qualit\u00e4tsstandards f\u00fcr die Verpflegung in Kitas",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=247046",
+            "result": {
+                "sequence": "Herstellung und Lieferung der Mittagsversorgung f\u00fcr die Kita \"Spatzennest\" in Wollin nach den allgemeinen DGE-Qualit\u00e4tsstandards f\u00fcr die Verpflegung in Kitas",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.9340239763259888,
+                    0.06597603112459183
+                ]
+            }
+        },
+        {
+            "title": "Herstellung und Lieferung der Mittagsversorgung f\u00fcr die Kleine Grundschule in Wollin nach den allgemeinen DGE-Qualit\u00e4tsstandards f\u00fcr die Verpflegung in Schulen",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=247047",
+            "result": {
+                "sequence": "Herstellung und Lieferung der Mittagsversorgung f\u00fcr die Kleine Grundschule in Wollin nach den allgemeinen DGE-Qualit\u00e4tsstandards f\u00fcr die Verpflegung in Schulen",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.9497541189193726,
+                    0.05024592950940132
+                ]
+            }
+        },
+        {
+            "title": "Essensanbieter Amtsgebiet",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=245514",
+            "result": {
+                "sequence": "Essensanbieter Amtsgebiet",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.7190325856208801,
+                    0.28096744418144226
+                ]
+            }
+        },
+        {
+            "title": "Vergabe von Verpflegungsleistungen f\u00fcr kommunale Kindertagesst\u00e4tten, Schulen und Horte",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=245381",
+            "result": {
+                "sequence": "Vergabe von Verpflegungsleistungen f\u00fcr kommunale Kindertagesst\u00e4tten, Schulen und Horte",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.5817117094993591,
+                    0.4182882606983185
+                ]
+            }
+        },
+        {
+            "title": "Essensversorgung in st\u00e4dtischen Einrichtungen",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=236366",
+            "result": {
+                "sequence": "Essensversorgung in st\u00e4dtischen Einrichtungen",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.7127358913421631,
+                    0.2872641384601593
+                ]
+            }
+        },
+        {
+            "title": "Lieferleistung Schulspeisung Dr. Hugo Rosenthal Oberschule",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=246513",
+            "result": {
+                "sequence": "Lieferleistung Schulspeisung Dr. Hugo Rosenthal Oberschule",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.8172721862792969,
+                    0.18272778391838074
+                ]
+            }
+        },
+        {
+            "title": "Bereitstellung einer Tagungsst\u00e4tte f\u00fcr die Durchf\u00fchrung von Informations- und Schulungsveranstaltungen des Integrationsamtes des Landes Brandenburg beim LASV",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=241878",
+            "result": {
+                "sequence": "Bereitstellung einer Tagungsst\u00e4tte f\u00fcr die Durchf\u00fchrung von Informations- und Schulungsveranstaltungen des Integrationsamtes des Landes Brandenburg beim LASV",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.6965429186820984,
+                    0.3034570515155792
+                ]
+            }
+        },
+        {
+            "title": "Versorgung der Michael-Ende-Grundschule (47) mit Schulessen, Fr\u00fchst\u00fcck und Vesper",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=244545",
+            "result": {
+                "sequence": "Versorgung der Michael-Ende-Grundschule (47) mit Schulessen, Fr\u00fchst\u00fcck und Vesper",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.855726420879364,
+                    0.14427359402179718
+                ]
+            }
+        },
+        {
+            "title": "Sch\u00fclerspeisung Gymnasium R\u00fcdersdorf",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=245871",
+            "result": {
+                "sequence": "Sch\u00fclerspeisung Gymnasium R\u00fcdersdorf",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.6715782880783081,
+                    0.3284216821193695
+                ]
+            }
+        },
+        {
+            "title": "Sch\u00fclerspeisung FS SEE",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=246037",
+            "result": {
+                "sequence": "Sch\u00fclerspeisung FS SEE",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.5777707695960999,
+                    0.42222920060157776
+                ]
+            }
+        },
+        {
+            "title": "Sch\u00fclerspeisung FS Neuenhagen",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=246900",
+            "result": {
+                "sequence": "Sch\u00fclerspeisung FS Neuenhagen",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.6911284327507019,
+                    0.30887162685394287
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung der Kindertagesst\u00e4tten der Stadt Velten",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=245875",
+            "result": {
+                "sequence": "Mittagsverpflegung der Kindertagesst\u00e4tten der Stadt Velten",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.9910901188850403,
+                    0.00890988390892744
+                ]
+            }
+        },
+        {
+            "title": "Vergabe der Mittagsverpflegung f\u00fcr die Grundschule \"Geschwister Scholl\" in Tr\u00e4gerschaft der Stadt Rathenow ab dem Schuljahr 2025/2026",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=246480",
+            "result": {
+                "sequence": "Vergabe der Mittagsverpflegung f\u00fcr die Grundschule \"Geschwister Scholl\" in Tr\u00e4gerschaft der Stadt Rathenow ab dem Schuljahr 2025/2026",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.9927334785461426,
+                    0.007266493514180183
+                ]
+            }
+        },
+        {
+            "title": "Essenversorgung an der kommunalen Grundschule und Kindertagesst\u00e4tten Uckerland",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=245769",
+            "result": {
+                "sequence": "Essenversorgung an der kommunalen Grundschule und Kindertagesst\u00e4tten Uckerland",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.5801941752433777,
+                    0.4198058545589447
+                ]
+            }
+        },
+        {
+            "title": "GSE Neubau Grundschule mit Mensa, Hort und Zweifeldsporthalle, Elbestr. 25, 16341 Panketal",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=245691",
+            "result": {
+                "sequence": "GSE Neubau Grundschule mit Mensa, Hort und Zweifeldsporthalle, Elbestr. 25, 16341 Panketal",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.8911504149436951,
+                    0.10884959250688553
+                ]
+            }
         }
     ]
 }
