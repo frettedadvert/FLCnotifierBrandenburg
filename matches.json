@@ -959,6 +959,54 @@
                     0.10884959250688553
                 ]
             }
+        },
+        {
+            "title": "Herstellung und Lieferung der Mittagsversorgung f\u00fcr die Kindertagesst\u00e4tte \"Fl\u00e4mingstrolche\" in G\u00f6rzke nach den allgemeinen DGE-Qualit\u00e4tsstandards f\u00fcr die Verpflegung in Kitas",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=247179",
+            "result": {
+                "sequence": "Herstellung und Lieferung der Mittagsversorgung f\u00fcr die Kindertagesst\u00e4tte \"Fl\u00e4mingstrolche\" in G\u00f6rzke nach den allgemeinen DGE-Qualit\u00e4tsstandards f\u00fcr die Verpflegung in Kitas",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.9725764393806458,
+                    0.02742353267967701
+                ]
+            }
+        },
+        {
+            "title": "Herstellung und Lieferung der Mittagsversorgung f\u00fcr die Kindertagesst\u00e4tte \"Spatzennest\" in Wollin nach den allgemeinen DGE-Qualit\u00e4tsstandards f\u00fcr die Verpflegung in Kitas",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=247181",
+            "result": {
+                "sequence": "Herstellung und Lieferung der Mittagsversorgung f\u00fcr die Kindertagesst\u00e4tte \"Spatzennest\" in Wollin nach den allgemeinen DGE-Qualit\u00e4tsstandards f\u00fcr die Verpflegung in Kitas",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.9717169404029846,
+                    0.028283042833209038
+                ]
+            }
+        },
+        {
+            "title": "Herstellung und Lieferung der Mittagsversorgung f\u00fcr die Kleine Grundschule in Wollin nach den allgemeinen DGE-Qualit\u00e4tsstandards f\u00fcr die Verpflegung in Schulen",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=247187",
+            "result": {
+                "sequence": "Herstellung und Lieferung der Mittagsversorgung f\u00fcr die Kleine Grundschule in Wollin nach den allgemeinen DGE-Qualit\u00e4tsstandards f\u00fcr die Verpflegung in Schulen",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.9497541189193726,
+                    0.05024592950940132
+                ]
+            }
         }
     ]
 }
