@@ -1007,6 +1007,22 @@
                     0.05024592950940132
                 ]
             }
+        },
+        {
+            "title": "Verpflegungsangebot f\u00fcr Bedienstete",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=247210",
+            "result": {
+                "sequence": "Verpflegungsangebot f\u00fcr Bedienstete",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.8796107172966003,
+                    0.12038934230804443
+                ]
+            }
         }
     ]
 }
