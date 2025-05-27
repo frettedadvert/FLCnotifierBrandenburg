@@ -1039,6 +1039,54 @@
                     0.4842498302459717
                 ]
             }
+        },
+        {
+            "title": "Verpflegungsleistungen in Kindertagesst\u00e4tten, Schulen und Horteinrichtungen",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=248015",
+            "result": {
+                "sequence": "Verpflegungsleistungen in Kindertagesst\u00e4tten, Schulen und Horteinrichtungen",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.5836126208305359,
+                    0.4163873493671417
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegungsleistung f\u00fcr das P\u00fcckler Gymnasium in Cottbus als Dienstleistungskonzession",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=248031",
+            "result": {
+                "sequence": "Schulverpflegungsleistung f\u00fcr das P\u00fcckler Gymnasium in Cottbus als Dienstleistungskonzession",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.6700059771537781,
+                    0.3299940824508667
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegungsleistung f\u00fcr das OSZ II in Cottbus als Dienstleistungskonzession",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=248038",
+            "result": {
+                "sequence": "Schulverpflegungsleistung f\u00fcr das OSZ II in Cottbus als Dienstleistungskonzession",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.7129340767860413,
+                    0.28706589341163635
+                ]
+            }
         }
     ]
 }
