@@ -1151,6 +1151,22 @@
                     0.29338881373405457
                 ]
             }
+        },
+        {
+            "title": "Ganztagsversorgung (Fr\u00fchst\u00fcck, Mittagessen und Vesper) in den st\u00e4dtischen Kindertagesst\u00e4tten der Fontanestadt Neuruppin",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=248595",
+            "result": {
+                "sequence": "Ganztagsversorgung (Fr\u00fchst\u00fcck, Mittagessen und Vesper) in den st\u00e4dtischen Kindertagesst\u00e4tten der Fontanestadt Neuruppin",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.5221826434135437,
+                    0.4778172969818115
+                ]
+            }
         }
     ]
 }
