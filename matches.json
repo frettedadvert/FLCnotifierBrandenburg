@@ -1215,6 +1215,38 @@
                     0.005477716214954853
                 ]
             }
+        },
+        {
+            "title": "Vergabe von Betriebsf\u00fchrungsdienstleistungen in der Erstaufnahmeeinrichtung des Landes Brandenburg. Los 2a - Verpflegungsleistungen an den Standorten Eisenh\u00fcttenstadt und Frankfurt (Oder)",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=249443",
+            "result": {
+                "sequence": "Vergabe von Betriebsf\u00fchrungsdienstleistungen in der Erstaufnahmeeinrichtung des Landes Brandenburg. Los 2a - Verpflegungsleistungen an den Standorten Eisenh\u00fcttenstadt und Frankfurt (Oder)",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.5351933240890503,
+                    0.4648066759109497
+                ]
+            }
+        },
+        {
+            "title": "Vergabe von Betriebsf\u00fchrungsdienstleistungen in der Erstaufnahmeeinrichtung des Landes Brandenburg. Los 2b - Verpflegungsleistungen am Standort W\u00fcnsdorf",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=249436",
+            "result": {
+                "sequence": "Vergabe von Betriebsf\u00fchrungsdienstleistungen in der Erstaufnahmeeinrichtung des Landes Brandenburg. Los 2b - Verpflegungsleistungen am Standort W\u00fcnsdorf",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.5077390670776367,
+                    0.4922608733177185
+                ]
+            }
         }
     ]
 }
