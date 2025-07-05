@@ -1279,6 +1279,22 @@
                     0.30054187774658203
                 ]
             }
+        },
+        {
+            "title": "Kantinenbetrieb Justizzentrum Potsdam",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=250417",
+            "result": {
+                "sequence": "Kantinenbetrieb Justizzentrum Potsdam",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.6847931742668152,
+                    0.3152068257331848
+                ]
+            }
         }
     ]
 }
