@@ -1295,6 +1295,22 @@
                     0.3152068257331848
                 ]
             }
+        },
+        {
+            "title": "Essensausgabe einer warmen Mittagsmahlzeit f\u00fcr drei F\u00f6rderschulen und Lieferung einer warmen Mittagsmahlzeit f\u00fcr eine F\u00f6rderschule des Landkreis Havelland",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=250875",
+            "result": {
+                "sequence": "Essensausgabe einer warmen Mittagsmahlzeit f\u00fcr drei F\u00f6rderschulen und Lieferung einer warmen Mittagsmahlzeit f\u00fcr eine F\u00f6rderschule des Landkreis Havelland",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.9919600486755371,
+                    0.008039929904043674
+                ]
+            }
         }
     ]
 }
