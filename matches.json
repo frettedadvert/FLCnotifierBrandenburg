@@ -1343,6 +1343,22 @@
                     0.01554894633591175
                 ]
             }
+        },
+        {
+            "title": "Versorgungspartnerschaft f\u00fcr die Patientenversorgung, die Mitarbeiterverk\u00f6stigung und den Konferenzservice",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=251692",
+            "result": {
+                "sequence": "Versorgungspartnerschaft f\u00fcr die Patientenversorgung, die Mitarbeiterverk\u00f6stigung und den Konferenzservice",
+                "labels": [
+                    "catering",
+                    "mittag"
+                ],
+                "scores": [
+                    0.9540338516235352,
+                    0.045966148376464844
+                ]
+            }
         }
     ]
 }
