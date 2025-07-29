@@ -1375,6 +1375,38 @@
                     0.28096744418144226
                 ]
             }
+        },
+        {
+            "title": "Vergabe von Verpflegungsleistungen f\u00fcr kommunale Kindertagesst\u00e4tten, Schulen und Horte",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=251947",
+            "result": {
+                "sequence": "Vergabe von Verpflegungsleistungen f\u00fcr kommunale Kindertagesst\u00e4tten, Schulen und Horte",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.5817117094993591,
+                    0.4182882606983185
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistungen f\u00fcr Kindertagesst\u00e4tten, Schulen und Horte - 16761 Hennigsdorf",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=251943",
+            "result": {
+                "sequence": "Verpflegungsleistungen f\u00fcr Kindertagesst\u00e4tten, Schulen und Horte - 16761 Hennigsdorf",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.6921321153640747,
+                    0.3078678548336029
+                ]
+            }
         }
     ]
 }
