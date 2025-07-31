@@ -1407,6 +1407,22 @@
                     0.3078678548336029
                 ]
             }
+        },
+        {
+            "title": "Versorgung st\u00e4dtischer Schulen und der Kindertagesst\u00e4tten/Horteinrichtungen mit Speisen und Getr\u00e4nken in der Ganztagsversorgung in kommunaler Tr\u00e4gerschaft der Stadt Oranienburg",
+            "date": "",
+            "link": "https://vergabemarktplatz.brandenburg.de/VMPCenter/public/company/projectForwarding.do?pid=252155",
+            "result": {
+                "sequence": "Versorgung st\u00e4dtischer Schulen und der Kindertagesst\u00e4tten/Horteinrichtungen mit Speisen und Getr\u00e4nken in der Ganztagsversorgung in kommunaler Tr\u00e4gerschaft der Stadt Oranienburg",
+                "labels": [
+                    "mittag",
+                    "catering"
+                ],
+                "scores": [
+                    0.5020112991333008,
+                    0.49798867106437683
+                ]
+            }
         }
     ]
 }
